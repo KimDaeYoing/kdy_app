@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kdy_app/static/css/main.6620ad3a.chunk.css",
+    "main.js": "/kdy_app/static/js/main.7c9881ab.chunk.js",
+    "main.js.map": "/kdy_app/static/js/main.7c9881ab.chunk.js.map",
+    "runtime-main.js": "/kdy_app/static/js/runtime-main.62043ed1.js",
+    "runtime-main.js.map": "/kdy_app/static/js/runtime-main.62043ed1.js.map",
+    "static/js/2.4a3a71ec.chunk.js": "/kdy_app/static/js/2.4a3a71ec.chunk.js",
+    "static/js/2.4a3a71ec.chunk.js.map": "/kdy_app/static/js/2.4a3a71ec.chunk.js.map",
+    "index.html": "/kdy_app/index.html",
+    "static/css/main.6620ad3a.chunk.css.map": "/kdy_app/static/css/main.6620ad3a.chunk.css.map",
+    "static/js/2.4a3a71ec.chunk.js.LICENSE.txt": "/kdy_app/static/js/2.4a3a71ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62043ed1.js",
+    "static/js/2.4a3a71ec.chunk.js",
+    "static/css/main.6620ad3a.chunk.css",
+    "static/js/main.7c9881ab.chunk.js"
+  ]
+}
